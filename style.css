@@ -1,0 +1,18 @@
+
+
+.main-section
+{   
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center;
+}
+
+
+
+
+#section-3-happy-client
+{
+  
+    width: 80%;
+    background-color: yellow !important;
+}
